@@ -2,7 +2,9 @@
 name = "rolldown_plugin_vite_resolve"
 version = "0.1.0"
 edition = "2021"
+homepage = "https://rolldown.rs/"
 license = "MIT"
+repository = "https://github.com/rolldown/rolldown"
 publish = true
 description = "Rolldown plugin for Vite module resolution"
 
